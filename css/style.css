@@ -99,20 +99,20 @@ footer {
     color: white;
 }
 
-/* Trivia page form styles */
-.trivia-form {
+/* Game page form styles */
+.game-form {
     max-width: 500px;
     margin: 0 auto;
 }
 
-.trivia-form input {
+.game-form input {
     display: block;
     margin-bottom: 1rem;
     padding: 0.5rem;
     width: 100%;
 }
 
-.trivia-form button {
+.game-form button {
     background-color: #4CAF50;
     color: white;
     padding: 0.5rem 1rem;
